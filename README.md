@@ -1,1 +1,2 @@
 # Ingenieria-de-Software-1C2024
+Hola, soy Vicente Tenconi y esta es mi carpeta como estudiante de Ingenieria del Software. En ella vas a encontrar ejercicios y resoluciones realizadas por mi en clase y por fuera de ella. No es material que este verificado como correcto, es mi material de estudio.
